@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Listwon</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://listwon.pl/"/>
+  <updated>2016-02-28T21:07:23.797Z</updated>
+  <id>http://listwon.pl/</id>
+  
+  <author>
+    <name>Bartłomiej T. Listwon</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Brackets z dopałką</title>
+    <link href="http://listwon.pl/brackets/"/>
+    <id>http://listwon.pl/brackets/</id>
+    <published>2016-02-27T23:00:00.000Z</published>
+    <updated>2016-02-28T21:07:23.797Z</updated>
+    
+    <content type="html">&lt;h2 id=&quot;Rozszerzenia,_z_których_korzystam&quot;&gt;Rozszerzenia, z których korzystam&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jasonsanjose/brackets-sass&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Brackets Sass&lt;/a&gt; - kompilowanie plików Sass przy pomocy wbudowanej biblioteki libSass lub zainstalowanego w systemie kompilatora&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/PatLillis/brackets-show-whitespace-vs&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Show Whitespace VS&lt;/a&gt; - wyświetlanie spacji i tabulacji&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/cfjedimaster/brackets-w3cvalidation&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;W3CValidation&lt;/a&gt; - walidacja HTML&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/MiguelCastillo/Brackets-wsSanitizer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;White Space Sanitizer&lt;/a&gt; - ujednolicanie typu wcięć w pliku&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kiedyś potrzebowałem jeszcze &lt;a href=&quot;https://github.com/mardraze/brackets-international-keyboards&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;International keyboards&lt;/a&gt; i nie zwróciłem uwagi, kiedy poprawną obsługę wprowadzania specjalnych znaków językowych wdrożono w głównym kodzie programu.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Rozszerzenia,_z_których_korzystam&quot;&gt;Rozszerzenia, z których korzystam&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/jasonsanjose/brackets-
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tearing obrazu w Sleeping Dogs: Definitive Edition</title>
+    <link href="http://listwon.pl/tearing-obrazu-sleeping-dogs/"/>
+    <id>http://listwon.pl/tearing-obrazu-sleeping-dogs/</id>
+    <published>2016-02-15T23:00:00.000Z</published>
+    <updated>2016-02-16T16:34:44.449Z</updated>
+    
+    <content type="html">&lt;p&gt;Lekarstwem na &lt;a href=&quot;https://pl.wikipedia.org/wiki/Rozrywanie_obrazu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tearing obrazu&lt;/a&gt; w Sleeping Dogs: Definitive Edition jest włączenie steamowego licznika klatek.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Steam&amp;gt;Ustawienia&amp;gt;W grze&amp;gt;Licznik FPS w grze&amp;gt;(Wybierz obszar, np. Lewy górny róg)&amp;gt;Ok&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Steam&amp;gt;Settings&amp;gt;In-Game&amp;gt; In-game FPS Counter&amp;gt;(Select area, e.g. Top-left)&amp;gt;Ok&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Źródło lifehacka: &lt;a href=&quot;https://steamcommunity.com/app/307690/discussions/0/541907867779436671/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://steamcommunity.com/app/307690/discussions/0/541907867779436671/&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Lekarstwem na &lt;a href=&quot;https://pl.wikipedia.org/wiki/Rozrywanie_obrazu&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;tearing obrazu&lt;/a&gt; w Sleeping Dogs
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ís - Yoko Kanno x POP ETC</title>
+    <link href="http://listwon.pl/pop-etc-is/"/>
+    <id>http://listwon.pl/pop-etc-is/</id>
+    <published>2016-02-15T23:00:00.000Z</published>
+    <updated>2016-02-16T16:58:34.573Z</updated>
+    
+    <content type="html">&lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/Vr32qgH1NQc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;div class=&quot;video-container&quot;&gt;&lt;iframe src=&quot;//www.youtube.com/embed/Vr32qgH1NQc&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Atom - kolejne podejście</title>
+    <link href="http://listwon.pl/atom/"/>
+    <id>http://listwon.pl/atom/</id>
+    <published>2016-02-15T23:00:00.000Z</published>
+    <updated>2016-02-16T16:40:28.756Z</updated>
+    
+    <content type="html">&lt;p&gt;Jednym z moich głównych narzędzi w pracy frontendowca jest darmowy edytor &lt;a href=&quot;http://brackets.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Brackets&lt;/a&gt; firmowany przez Adobe. &lt;a href=&quot;https://atom.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Atom&lt;/a&gt;, choć podobny (wieloplatformowy, otwarty edytor kodu, oparty na node.js), w przeciwieństwie do powyższego, jest bardziej uniwersalny. Nie skupia się głównie na wspomaganiu tworzenia stron internetowych. Przy pierwszym podejściu jednak się od niego odbiłem. Problemem były domyślne skróty klawiaturowe, które uniemożliwiały wprowadzanie polskich znaków (problem dotyczy wielu języków). Na szczęście od tamtego czasu wyszła już odpowiednia wtyczka zmieniająca kłopotliwe skróty. Szczegóły poniżej.&lt;/p&gt;
+&lt;p&gt;Atom urzekł mnie świetną &lt;a href=&quot;https://www.youtube.com/watch?v=Y7aEiVwBAdk&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;reklamą&lt;/a&gt; i podglądem renderowania &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Markdown&lt;/a&gt; wbudowanym w edytor (skrót &lt;code&gt;Ctrl+Shift+M&lt;/code&gt;).&lt;/p&gt;
+&lt;h2 id=&quot;Co_warto_zmienić_po_instalacji?&quot;&gt;Co warto zmienić po instalacji?&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;naprawienie wprowadzania polskich znaków (&lt;a href=&quot;https://atom.io/packages/keyboard-localization&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://atom.io/packages/keyboard-localization&lt;/a&gt;): &lt;code&gt;File&amp;gt;Settings&amp;gt;Install keyboard-localization&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;wyświetlanie niewidzialnych znaków i wcięć: &lt;code&gt;File&amp;gt;Settings&amp;gt;Settings&amp;gt; [x] Show invisibles, [x] Show indent guide&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;Inne_przydatne_rozszerzenia&quot;&gt;Inne przydatne rozszerzenia&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;ES2015 i JSX: &lt;a href=&quot;http://info.meteor.com/blog/how-to-set-up-atom-and-webstorm-for-meteor-es6-es2015-and-jsx&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://info.meteor.com/blog/how-to-set-up-atom-and-webstorm-for-meteor-es6-es2015-and-jsx&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Jednym z moich głównych narzędzi w pracy frontendowca jest darmowy edytor &lt;a href=&quot;http://brackets.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Br
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Ma granice nieskończony – rzecz o Bioshock: Infinite</title>
+    <link href="http://listwon.pl/ma-granice-nieskonczony-bioshock-infinite/"/>
+    <id>http://listwon.pl/ma-granice-nieskonczony-bioshock-infinite/</id>
+    <published>2014-02-26T23:00:00.000Z</published>
+    <updated>2016-02-16T00:05:52.579Z</updated>
+    
+    <content type="html">&lt;p&gt;Paradoksalnie zdobywca wysokich ocen i wielu pochwał, był krytykowany również przez swoich zwolenników. Za co kochamy i dlaczego nienawidzimy to interaktywne doświadczenie, pod wieloma względami zasługujące na miano dzieła sztuki? [UWAGA! Dużo spoilerów!]&lt;/p&gt;
+&lt;h2 id=&quot;„Somewhere_beyond_the_sea”&quot;&gt;„Somewhere beyond the sea”&lt;/h2&gt;&lt;p&gt;Podobnie jak w przypadku pierwszej części BioShock, Ken Levine dosłownie i w przenośni rzuca nas na głęboką wodę. Ponownie Ocean Atlantycki, latarnia morska i tajemnica. Ponownie, bo nieprzypadkowo.&lt;/p&gt;
+&lt;p&gt;Niestety już na początku pojawiają się pierwsze problemy w odbiorze gry, które z jednej strony można zrzucać na karb błędów projektowych, z drugiej zaś wynikają ze specyfiki fabuły, której jeszcze nie znamy. Nienaturalna kłótnia naszych towarzyszy o wiosłowanie przy jednoczesnym, trochę nieudolnym ukryciu twarzy, czy porozrzucane w bezsensownych miejscach monety utrudniają nam imersję (świadomi obecności rodzeństwa Lutece i światów równoległych, wcale się już temu nie dziwimy).&lt;/p&gt;
+&lt;p&gt;Mamy przyprowadzić dziewczynę i spłacić dług. Martwy latarnik to jawna „propozycja nie do odrzucenia” i każe nam myśleć, iż zadarliśmy ze światem przestępczym. Czegoś niestety brakuje, do tego stopnia, że bez znajomości całej fabuły, możemy się szybko zniechęcić pozornie zagmatwanym początkiem. Cytat o nieistniejących wspomnieniach i strach Bookera przed kobietą, a nie Bogiem, już nam coś sugerują, ale to wciąż za mało.&lt;/p&gt;
+&lt;h2 id=&quot;Przez_chrzest_odrodzisz_się_na_nowo&quot;&gt;Przez chrzest odrodzisz się na nowo&lt;/h2&gt;&lt;p&gt;W bardzo ciekawy, bo dosłowny sposób wykorzystano symbolikę oczyszczenia, nawrócenia i przemiany, z jaką wiąże się obrzęd chrztu. Booker drwi ze zmazania grzechów patrząc na chrzcielnicę wewnątrz latarni, by potem wchodząc do Columbii stracić przytomność w czasie chrztu (w którymś ze światów pewnie utonął). Nie wie, że wcześniej w tej samej rzeczywistości, jego odpowiednik przez chrzest odrodził się jako Prorok Zachary Hale Comstock, a zabrana z innego wymiaru Anna DeWitt stała się Elizabeth.&lt;/p&gt;
+&lt;p&gt;Woda, która dała początek nowemu życiu, na końcu przynosi śmierć głównego bohatera. Podobnie zbrodnia (zabicie żony i „rodzeństwa” Lutece), która miała uratować Comstocka, stała się początkiem jego końca.&lt;/p&gt;
+&lt;h2 id=&quot;Theatrum_Mundi&quot;&gt;Theatrum Mundi&lt;/h2&gt;&lt;p&gt;Prowadzenie gracza za rękę i liniowość rozgrywki, w której wszelkie wybory są pozorne, wynika z faktu, iż jesteśmy częścią starannie wyreżyserowanego przedstawienia, w którym nasza śmierć nie ma znaczenia. Plansze są bogate w absurdalne ułatwienia. Cała propaganda przygotowana przeciwko Bookerowi – plakaty z Fałszywym Pasterzem, automaty z historyjkami Duke’a i Dimwitta – to wszystko zdaje się na nic, bo rodzeństwo Lutece (będące jedną i tą samą osobą z różnych światów) swobodnie podróżuje między wymiarami i wyprzedza każdy ruch Comstocka.&lt;/p&gt;
+&lt;p&gt;W razie nieszczęśliwego wypadku zostaniemy zastąpieni swoim odpowiednikiem, który przeżyje dłużej. To dlatego zawsze wyrzucamy „orła”, bo tylko ta ścieżka jest właściwa. Nie bez powodu już na początku naszego pobytu w Columbii, liczba kresek oznaczających „orły” przekracza setkę. Cel uświęca środki. Podobny motyw widzieliśmy już m.in. w filmach „Moon”, „Prestiż”, czy trylogii „Matrix”.&lt;/p&gt;
+&lt;p&gt;Na końcu i tak okazuje się, że to wszystko nigdy się nie wydarzyło. W przypadku zwykłych podróży często borykamy się z problemem paradoksów, ale musimy uwzględnić, że Robert i Rosalind stali się niezależni od czasu i przestrzeni. Wprost wynika z tego kolejny wniosek – wcale nie musielibyśmy brać udziału w tej tragedii, gdyby oboje sami „rozwiązali” sprawę niewygodnej alternatywy Bookera. Zorganizowali sobie piękne igrzyska śmierci.&lt;/p&gt;
+&lt;h2 id=&quot;Jedzenie_tak_bardzo_w_śmietniku&quot;&gt;Jedzenie tak bardzo w śmietniku&lt;/h2&gt;&lt;p&gt;Do niepodważalnych zarzutów na pewno można zaliczyć niespójność świata, w którym zwykli obywatele, w przeciwieństwie do mieszkańców Rapture, nie korzystają z dostępnych w Columbii dóbr. Mocy vigorów oraz mechanicznych szkieletów używają wyłącznie żołnierze i to też tylko wybrani. W momencie gdy przechodzimy przez dzielnicę biednych i głodujących pracowników wyzyskiwanych przez Finka, w pobliskich beczkach wciąż są porozrzucane monety i jedzenie. Często brakuje możliwości bodaj minimalnej interakcji, nawet jeżeli miałaby to być zapętlona sekwencja krótkich odpowiedzi. Pomijam już fakt nieśmiertelności wielu postaci (głównie nieistotnych dla fabuły cywilów).&lt;/p&gt;
+&lt;p&gt;Wciąż nie potrafię natomiast zrozumieć, z czego wynika, że w jednej dzielnicy zbieranie jedzenia i pieniędzy nie niesie za sobą żadnych konsekwencji, a w innej wszyscy uznają nas za złodzieja. Całe miasto wygląda sztucznie, jest raczej wielkim poligonem, a nie miejscem normalnego życia. Tam, gdzie mamy walczyć, nie widzimy uciekających w panice ludzi, jest po prostu pusto. Okazji do walki jest zdecydowanie za dużo – sztucznie wydłużają rozgrywkę i psują klimat.&lt;/p&gt;
+&lt;h2 id=&quot;Najlepszy_przyjaciel_człowieka?&quot;&gt;Najlepszy przyjaciel człowieka?&lt;/h2&gt;&lt;p&gt;Wychwalana przez wiele osób postać Elizabeth wcale do idealnych nie należy, a już na pewno nie zasługuje na miano najlepszego towarzysza (ang. sidekick) wszech czasów. Bardzo podoba mi się kreacja postaci, jej wygląd, część animacji ruchu, mimika twarzy, przemiana symbolizowana ścięciem włosów (po pierwszym zabójstwie) oraz rozdarcie między światami przez małego palca w innym wymiarze. Znamienny wydaje się być również moment, w którym wypada jej przez okno „Odyseja”, co można odczytać jako zwiastun tragedii – nigdy nie uda nam się powrócić do domu. Niestety Elizabeth nie jest pozbawiona wad. Ciężko przełknąć powtarzane tak często, niesławne „Booker catch!”, czy rzucanie znalezionych pieniędzy w dowolnym momencie gry, także w czasie ważnych fabularnie dialogów. Do Claptrapa z serii Borderlands jej daleko.&lt;/p&gt;
+&lt;h2 id=&quot;Would_you_kindly_bring_us_the_girl,_and_wipe_away_the_debt?&quot;&gt;Would you kindly bring us the girl, and wipe away the debt?&lt;/h2&gt;&lt;p&gt;Nie da się oprzeć wrażeniu, że serwowanie nam częściowej powtórki z BioShocka włącznie z krótką obecnością w Rapture nie jest tylko luźnym nawiązaniem do serii, ale pokazaniem świata alternatywnego dla tego, w którym istnieje podwodna utopia. Począwszy od latarni morskiej, która w zależności od wymiaru jest wejściem do świata ponad chmurami lub poniżej fal oceanu, poprzez pozornie idealne, odizolowane miasto, vigory będące odpowiednikiem plazmidów, sole – EVE, Songbird – Big Daddy’ego, Elizabeth – Little Sister, Dr. Lutece – Dr. Tannenbaum, Jeremiah Fink – Sandera Cohena, czy Booker/Comstock – Jacka/Ryana.&lt;/p&gt;
+&lt;h2 id=&quot;Coś_się_kończy,_coś_się_zaczyna&quot;&gt;Coś się kończy, coś się zaczyna&lt;/h2&gt;&lt;p&gt;BioShock Infinite nie jest dziełem bez skazy, co tylko dowodzi, iż to nie doskonałość świadczy o wybitności. Muzyka, oprawa wizualna oraz fabuła są piękne, spójne i składają się we wspaniałe interaktywne przeżycie, niestety rozstrzelone pomiędzy sceną teatralną a poligonem. BioShock należy do tytułów, które można nienawidzić, które kochać da się tylko ślepą miłością, ale w które trzeba choć raz w życiu zagrać, by potem samodzielnie interpretować (prawdopodobnie w odmienny sposób niż mój). Takie było zamierzenie Levine’a, by nie liczyła się jego własna interpretacja, a to, co myśli każdy z graczy. Przychodzi mi na myśl nieśmiertelny „Planescape: Torment”, którego gorąco polecam, a który jeszcze silniej i w doskonalszy sposób eksploatuje temat nieskończoności, moralności, przemiany, alternatywnych rzeczywistości i manipulacji wspomnieniami.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Paradoksalnie zdobywca wysokich ocen i wielu pochwał, był krytykowany również przez swoich zwolenników. Za co kochamy i dlaczego nienawid
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>PEGI 18 za okazaniem dowodu</title>
+    <link href="http://listwon.pl/pegi-18-za-okazaniem-dowodu/"/>
+    <id>http://listwon.pl/pegi-18-za-okazaniem-dowodu/</id>
+    <published>2013-11-12T23:00:00.000Z</published>
+    <updated>2016-02-16T00:12:14.400Z</updated>
+    
+    <content type="html">&lt;p&gt;Gdy głos zabierają przeciwnicy przemocy w grach, zaraz pojawia się masa obrońców z „kontrargumentem” w postaci brutalnych filmów. Po pierwsze, o ile mnie pamięć nie myli, to do niedawna kina przestrzegały ograniczeń wiekowych narzuconych na dany seans, a wyjątkiem była obecność dorosłego. W przypadku osoby niepełnoletniej odpowiedzialność za to, co robi, ponosi jej opiekun i nie widzę w tym problemu. Dobrze, widzę problem, ale o tym za chwilę. Druga sprawa, w przeciwieństwie do filmu gra jest interaktywna i najczęściej w brutalnych scenach gracz bierze czynny udział. Nie jest wyłącznie biernym obserwatorem. Przyjmuje rolę „dobrego” albo „złego” (jeżeli ma taki wybór). Trzecia sprawa, teorie na temat złego wpływu gier mają tyleż zwolenników, co przeciwników. O ile wpływ gry na psychikę osoby pełnoletniej zależy już wyłącznie od kondycji psychicznej i wcześniejszego kształtowania jej przez znacznie silniejsze czynniki niż gry komputerowe, o tyle co najmniej do wieku 13 lat (nie bez powodu będącego dolną granicą częściowej, prawnej odpowiedzialności) wpływ na psychikę ma wszystko. Tak naprawdę nie można sztywno określić, że coś działa na dzieci w takim a takim przedziale wiekowym, a w innym nie ma żadnego wpływu. Nie bez powodu tempo rozwoju każdego dziecka jest inne, wszyscy się różnimy. Nie wolno tego bagatelizować.&lt;/p&gt;
+&lt;h2 id=&quot;Winą_próbuje_się_obarczyć_sprzedawców&quot;&gt;Winą próbuje się obarczyć sprzedawców&lt;/h2&gt;&lt;p&gt;W materiale emitowanym przez TVP trafiamy na fragment, w którym słyszymy, że PEGI to system dobrowolny, który nie musi być przestrzegany przez sprzedawcę nawet jeżeli przestrzega go dystrybutor i nie grożą za to kary, bo od czego są rodzice. Teoretycznie to brzmi prawidłowo, odpowiedzialność za to, jakie gry kupują dzieci ponoszą rodzice. W praktyce, to brzmi „sprzedawca powinien zwracać uwagę, ale tego nie robi”. Wierzcie lub nie, ale wielokrotnie sprzedawca zwraca uwagę na wiek kupującej grę osoby. Tylko jakie to ma znaczenie, jeżeli zaraz podejdzie rodzic, który w najlepszym razie po prostu kupi dziecku grę, a w najgorszym zrobi awanturę o to, że lepiej wie co dla jego dziecka jest dobre i sprzedający nie ma prawa go pouczać. To nie są przypadki wyssane z palca.&lt;/p&gt;
+&lt;p&gt;Moim zdaniem nałożenie obowiązku legitymowania kupującego grę przeznaczoną dla osób pełnoletnich jest dobrym pomysłem. Gdy sprawa zostanie uregulowana prawnie, „myślący inaczej” opiekun dziecka nie będzie miał prawa do awantury, a nieświadomy może zdoła sobie uzmysłowić, że coś z tym prezentem dla dziecka jest nie tak. Świadomi rodzice i tak nie polegają wyłącznie na oznaczeniach. Pytają o opinie znajomych, czytają opisy w internecie, czy oglądają nagrania z rozgrywki.&lt;/p&gt;
+&lt;p&gt;Nie będę poruszał tematu reklamowania brutalnych gier, bo tu akurat sytuacja jest dokładnie taka sama, jak w przypadku brutalnych filmów. Jeżeli coś miałoby zostać zabronione, to w obu dziedzinach jednocześnie.&lt;/p&gt;
+&lt;h2 id=&quot;Będą_więcej_piracić,_czy_na_pewno?&quot;&gt;Będą więcej piracić, czy na pewno?&lt;/h2&gt;&lt;p&gt;Niektórzy usilnie starają się przeciwstawić temu projektowi wzrost piractwa. Śmiem twierdzić, że to bzdura. Cyfrowej dystrybucji legitymowanie kupującego w ogóle nie dotknie, bo albo nie będzie podlegać polskiej jurysdykcji, albo skończy się na tradycyjnym „Potwierdzam, że ukończyłem 18 lat”. Nie muszę tłumaczyć, że zakazany owoc smakuje najlepiej.&lt;/p&gt;
+&lt;p&gt;Kto śledził premierę np. GTA V, ten wie, że piractwo na Xbox360 (m.in. liczba przerobionych konsol) gwałtownie wzrosło właśnie po jej premierze. Gry konsolowe są na tyle drogie w dniu premiery, że osób poniżej 18 roku życia i tak przeważnie nie stać na ich zakup albo wcale nie mają zamiaru kupować za 200zł. W okresie przedświątecznym gry kupują rodzice, więc nie wiem jaki wpływ na piractwo miałoby mieć wprowadzenie legitymowania kupujących.&lt;/p&gt;
+&lt;p&gt;Ograniczenia wiekowe dotyczące alkoholu i tytoniu nie wpływają na czarny rynek tak, jak cena (czyli głównie wysokość akcyzy).&lt;/p&gt;
+&lt;h2 id=&quot;Czy_ograniczenia_są_lekarstwem_na_brak_odpowiedzialności?&quot;&gt;Czy ograniczenia są lekarstwem na brak odpowiedzialności?&lt;/h2&gt;&lt;p&gt;Nie są, ale stanowią krok w dobrym kierunku. Rodzice powinni się interesować tym, co robią ich dzieci i w miarę możliwości spędzać z nimi swój wolny czas. Wbrew pozorom nawet wspólne granie w gry komputerowe z rodzicami, czego doświadczyłem już za czasów Commodore 64, jest bardzo ważne (w moim przypadku oznaczało również naukę alfabetu w grze „Koło Fortuny”).&lt;/p&gt;
+&lt;p&gt;Kilka lat temu pewna znajoma pedagog powiedziała:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dzisiaj dzieci się nie wychowuje, tylko hoduje.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Każde działanie, które pozwoli nam w jakimkolwiek stopniu to naprawić, jest moim zdaniem bardzo pożądane.&lt;/p&gt;
+&lt;p&gt;Wolność to odpowiedzialność.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Gdy głos zabierają przeciwnicy przemocy w grach, zaraz pojawia się masa obrońców z „kontrargumentem” w postaci brutalnych filmów. Po pier
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Z wysokiego zamku Pan</title>
+    <link href="http://listwon.pl/z-wysokiego-zamku-pan/"/>
+    <id>http://listwon.pl/z-wysokiego-zamku-pan/</id>
+    <published>2013-11-10T23:00:00.000Z</published>
+    <updated>2016-02-16T00:14:49.063Z</updated>
+    
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;Z wysokiego zamku Pan sukcesów łaknący,&lt;br&gt;Śpi w swej komnacie śniąc sen kojący.&lt;br&gt;Marzenia ma wielkie, choć też obawy miewa,&lt;br&gt;Czy sił mu wystarczy, by dosięgnąć nieba?&lt;br&gt;&lt;em&gt;Bartłomiej T. Listwon&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Marzyłem, żeby zostać programistą – teraz posługuję się kilkoma językami programowania.&lt;br&gt;Marzyłem o zdobyciu umiejętności tworzenia stron internetowych – wciąż je rozwijam.&lt;br&gt;Marzyłem, żeby pisać o grach komputerowych – napisałem już kilka tekstów dla 1ndie World (i nie tylko).&lt;br&gt;Marzyłem o wyjeździe na Poznań Game Arena – nawet nie śniło mi się, że spędzę tę imprezę w takim towarzystwie i jako Exhibitor, a nie Visitor.&lt;br&gt;Marzyłem, żeby poznać choćby jednego twórcę gier – dziś nie tylko znam wielu, ale też udaje mi się czasami pomóc w ich pracy.&lt;br&gt;Nie przestaję marzyć.&lt;br&gt;Nie jest łatwo, ale nikt nie powiedział, że będzie.&lt;br&gt;Dla niektórych jestem wielki, dla innych stworzony do wielkich rzeczy.&lt;br&gt;Głos rozsądku, zwycięzca, marzyciel.&lt;br&gt;Wiele imion, a będą kolejne.&lt;br&gt;Jeden człowiek.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I tylko jedno może unicestwić marzenie – strach przed porażką.&lt;br&gt;&lt;em&gt;Paulo Coelho&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Łatwiej nam wspólnie wyśmiewać niż w samotności doceniać.&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;Z wysokiego zamku Pan sukcesów łaknący,&lt;br&gt;Śpi w swej komnacie śniąc sen kojący.&lt;br&gt;Marzenia ma wielkie, choć też obawy miew
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
