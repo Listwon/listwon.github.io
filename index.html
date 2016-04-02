@@ -113,6 +113,46 @@ ga('send', 'pageview');
       <div class="outer">
         <section id="main">
   
+    <article id="post-huawei-e3372h-153" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/huawei-e3372h-153/" class="article-date">
+  <time datetime="2016-04-01T22:00:00.000Z" itemprop="datePublished">2016-04-02</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/huawei-e3372h-153/">Huawei E3372h-153 (Megafon M150-2) komendy AT</a>
+    </h1>
+  
+
+        <hr/>
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>Powyższy modem udało mi się połączyć z routerem Archer C7 v2 z wgranym <a href="http://dl.eko.one.pl/gargoyle-pl/chaos_calmer/ar71xx/" target="_blank" rel="external">zmodyfikowanym firmware Gargoyle 1.9.x</a> ze zintegrowaną obsługą modemów. Wystarczyło tylko wyłączyć tryb CD-ROM komendą: <code>AT^SETPORT=&quot;FF;10,12,16&quot;</code></p>
+<p>Lista działających komend (<a href="https://gist.github.com/artizirk/20acc2ab07fe6cad9fcc" target="_blank" rel="external">źródło</a>):<br><figure class="highlight vhdl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br></pre></td><td class="code"><pre><span class="line">replacing A1,A2 <span class="keyword">with</span> FF turns off need <span class="keyword">for</span> usb_modeswitch</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"A1,A2;12,1,16,A1,A2"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,PCUI:<span class="number">0</span>,MDM:<span class="number">1</span>,NDIS:<span class="number">2</span>,CDROM:<span class="number">3</span>,SD:<span class="number">4</span>,</span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"A1,A2;1,12,16,A1,A2"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,MDM:<span class="number">0</span>,PCUI:<span class="number">1</span>,NDIS:<span class="number">2</span>,CDROM:<span class="number">3</span>,SD:<span class="number">4</span>,</span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"A1,A2;10,12,16,A1,A2"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,MDM:<span class="number">0</span>,PCUI:<span class="number">1</span>,NDIS:<span class="number">2</span>,CDROM:<span class="number">3</span>,SD:<span class="number">4</span>,</span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"FF;10,12,16"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,MDM:<span class="number">0</span>,PCUI:<span class="number">1</span>,NDIS:<span class="number">2</span>,</span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"FF;5,10,12,16"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,GPS:<span class="number">0</span>,MDM:<span class="number">1</span>,PCUI:<span class="number">2</span>,NDIS:<span class="number">3</span>,</span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"FF;12,16"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,PCUI:<span class="number">0</span>,NDIS:<span class="number">1</span>,</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">AT^SETPORT=<span class="string">"FF;10,12,16,5,A"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,MDM:<span class="number">0</span>,PCUI:<span class="number">1</span>,NDIS:<span class="number">2</span>,GPS:<span class="number">3</span>,BT:<span class="number">4</span>,</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">this seems <span class="keyword">to</span> work <span class="keyword">with</span> windows mobile partner</span><br><span class="line">AT^SETPORT=<span class="string">"FF;12,10,16"</span></span><br><span class="line">^GETPORTMODE: <span class="keyword">TYPE</span>: WCDMA: huawei,PCUI:<span class="number">0</span>,MDM:<span class="number">1</span>,NDIS:<span class="number">2</span>,</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">ndis connection <span class="keyword">on</span> PCUI <span class="keyword">port</span>, couln<span class="attribute">'t</span> get this <span class="keyword">to</span> work</span><br><span class="line">AT^NDISDUP=<span class="number">1</span>,<span class="number">1</span>,<span class="string">"4g.tele2.ee"</span></span><br><span class="line">AT^DHCP?</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">ATI - display information about the modem <span class="keyword">and</span> imei</span><br><span class="line">AT + CLAC - list <span class="keyword">of</span> supported commands</span><br><span class="line">AT ^ FHVER - Check software version <span class="keyword">and</span> modem</span><br><span class="line">AT ^ VERSION? - Firmware version</span><br><span class="line">AT ^ CARDLOCK? - Check the status <span class="keyword">of</span> a modem lock <span class="keyword">and</span> the number <span class="keyword">of</span> attempts <span class="keyword">to</span> enter the unlock code:</span><br><span class="line">CONNECT response: CARDLOCK: A, B, <span class="number">0</span></span><br><span class="line">A = <span class="number">2</span> the modem <span class="keyword">is</span> enabled</span><br><span class="line">A = <span class="number">1</span> modem <span class="keyword">is</span> locked - SimLock</span><br><span class="line">A = <span class="number">3</span>, you used up <span class="keyword">all</span> <span class="number">10</span> attempts <span class="keyword">to</span> enter the code</span><br><span class="line">B - number <span class="keyword">of</span> remaining attempts <span class="keyword">to</span> enter the unlock code (<span class="keyword">default</span> <span class="keyword">is</span> <span class="number">10</span>)</span><br><span class="line">AT ^ CARDLOCK = <span class="string">"unlock code"</span> - enter the unlock code (<span class="number">8</span> digits)</span><br><span class="line">AT + CSQ - View the <span class="keyword">signal</span> strength</span><br><span class="line">AT ^ SYSINFOEX - which network <span class="keyword">in</span> the currently logged modem</span><br><span class="line">AT ^ SETPORT =? - Mapping <span class="keyword">of</span> possible <span class="keyword">port</span> configurations</span><br><span class="line">AT ^ SETPORT? - Displays the current <span class="keyword">port</span> <span class="keyword">configuration</span></span><br><span class="line">AT ^ SETPORT = <span class="string">"combination"</span> - switch ports required <span class="keyword">in</span> combination, <span class="keyword">for</span> example, AT ^ SETPORT = <span class="string">"A1, A2; 10,12,16, A1, A2"</span></span><br><span class="line">AT ^ RESET - reboot <span class="keyword">of</span> the modem (needed <span class="keyword">after</span> SETPORT)</span><br></pre></td></tr></table></figure></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://listwon.pl/huawei-e3372h-153/" data-id="cimjggesu0007rwycyfchwep1" class="article-share-link">Podziel się</a>
+      
+      
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
     <article id="post-brackets" class="article article-type-post" itemscope itemprop="blogPost">
   <div class="article-meta">
     <a href="/brackets/" class="article-date">
@@ -147,7 +187,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/brackets/" data-id="cil71h2yn00000wycezmb3aab" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/brackets/" data-id="cimjggesy0008rwyca2lahylv" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -189,7 +229,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/tearing-obrazu-sleeping-dogs/" data-id="cikykm3yo0003t8yctqdh1vjo" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/tearing-obrazu-sleeping-dogs/" data-id="cimjggesl0003rwyc11d9yees" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -228,7 +268,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/pop-etc-is/" data-id="cikykm3yq0004t8ycqxqtvjan" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/pop-etc-is/" data-id="cimjggesn0004rwyclf9f26o1" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -275,7 +315,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/atom/" data-id="cikykm3yx0007t8ycuff9pc3h" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/atom/" data-id="cimjgget10009rwycjkopmb1e" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -327,7 +367,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/ma-granice-nieskonczony-bioshock-infinite/" data-id="cikykm3yv0006t8ycnqmuqtu5" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/ma-granice-nieskonczony-bioshock-infinite/" data-id="cimjggesr0006rwycl821e2bn" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -379,7 +419,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/pegi-18-za-okazaniem-dowodu/" data-id="cikykm3yt0005t8ycc6jy7nn1" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/pegi-18-za-okazaniem-dowodu/" data-id="cimjggesp0005rwyckp9g1bzi" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -425,7 +465,7 @@ ga('send', 'pageview');
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://listwon.pl/z-wysokiego-zamku-pan/" data-id="cikykm3yl0002t8yclj1rge9c" class="article-share-link">Podziel się</a>
+      <a data-url="http://listwon.pl/z-wysokiego-zamku-pan/" data-id="cimjggesh0002rwyc78cry7tr" class="article-share-link">Podziel się</a>
       
       
     </footer>
@@ -455,7 +495,7 @@ ga('send', 'pageview');
   <div class="widget-wrap">
     <h3 class="widget-title">Archiwum</h3>
     <div class="widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2016/02/">luty 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2014/02/">luty 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2013/11/">listopad 2013</a><span class="archive-list-count">2</span></li></ul>
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2016/04/">kwiecień 2016</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2016/02/">luty 2016</a><span class="archive-list-count">4</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2014/02/">luty 2014</a><span class="archive-list-count">1</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archiwum/2013/11/">listopad 2013</a><span class="archive-list-count">2</span></li></ul>
     </div>
   </div>
 
@@ -466,6 +506,10 @@ ga('send', 'pageview');
     <h3 class="widget-title">Najnowsze wpisy</h3>
     <div class="widget">
       <ul>
+        
+          <li>
+            <a href="/huawei-e3372h-153/">Huawei E3372h-153 (Megafon M150-2) komendy AT</a>
+          </li>
         
           <li>
             <a href="/brackets/">Brackets z dopałką</a>
@@ -481,10 +525,6 @@ ga('send', 'pageview');
         
           <li>
             <a href="/atom/">Atom - kolejne podejście</a>
-          </li>
-        
-          <li>
-            <a href="/ma-granice-nieskonczony-bioshock-infinite/">Ma granice nieskończony – rzecz o Bioshock: Infinite</a>
           </li>
         
       </ul>
