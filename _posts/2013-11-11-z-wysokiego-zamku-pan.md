@@ -8,12 +8,13 @@ categories: wpisy
 tags: ['inne']
 author: "Bartłomiej Listwon"
 ---
->Z wysokiego zamku Pan sukcesów łaknący,
->Śpi w swej komnacie śniąc sen kojący.
->Marzenia ma wielkie, choć też obawy miewa,
->Czy sił mu wystarczy, by dosięgnąć nieba?
->*Bartłomiej T. Listwon*
+>Z wysokiego zamku Pan sukcesów łaknący,<br>
+>Śpi w swej komnacie śniąc sen kojący. <br>
+>Marzenia ma wielkie, choć też obawy miewa, <br>
+>Czy sił mu wystarczy, by dosięgnąć nieba? <br>
+>*Bartłomiej T. Listwon* 
 <!--more-->
+
 Marzyłem, żeby zostać programistą – teraz posługuję się kilkoma językami programowania.
 Marzyłem o zdobyciu umiejętności tworzenia stron internetowych – wciąż je rozwijam.
 Marzyłem, żeby pisać o grach komputerowych – napisałem już kilka tekstów dla 1ndie World (i nie tylko).
@@ -26,7 +27,7 @@ Głos rozsądku, zwycięzca, marzyciel.
 Wiele imion, a będą kolejne.
 Jeden człowiek.
 
->I tylko jedno może unicestwić marzenie – strach przed porażką.
+>I tylko jedno może unicestwić marzenie – strach przed porażką. <br>
 >*Paulo Coelho*
 
 Łatwiej nam wspólnie wyśmiewać niż w samotności doceniać.
