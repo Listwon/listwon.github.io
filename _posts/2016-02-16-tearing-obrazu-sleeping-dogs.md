@@ -15,4 +15,4 @@ Lekarstwem na [tearing obrazu](https://pl.wikipedia.org/wiki/Rozrywanie_obrazu) 
 
 `Steam>Settings>In-Game> In-game FPS Counter>(Select area, e.g. Top-left)>Ok`
 
-Źródło lifehacka: https://steamcommunity.com/app/307690/discussions/0/541907867779436671/
+Źródło lifehacka: <https://steamcommunity.com/app/307690/discussions/0/541907867779436671/>
