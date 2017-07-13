@@ -49,15 +49,16 @@ a {
 }
 
 .toggle-button:after {
-  content: attr(data-open);
+  content: "\f0c9";
   cursor: pointer;
   padding: 15px;
   font-size: 1.6rem;
   text-align: center;
+  font-family: FontAwesome;
 }
 
 #menu-checkbox:checked + .nav-main .toggle-button:after {
-  content: attr(data-close);
+  content: "\f0c9";
 }
 
 
