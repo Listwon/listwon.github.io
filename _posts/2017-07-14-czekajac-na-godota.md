@@ -29,7 +29,7 @@ Kiedyś było łatwiej. Znaczy trudniej. Znaczy jedno i drugie. Gdy zaczynałem 
 
 „Nie ma zatem takiego człowieka, który [kocha cierpienie](https://pl.wikipedia.org/wiki/Lorem_ipsum) samo w sobie, kto by do niego dążył lub chciał go doświadczyć tylko dlatego, że jest to cierpienie, a dlatego, że czasami zdarzają się takie okoliczności, w których to cierpienie może doprowadzić go do jakiejś wielkiej przyjemności.” 
  
-Nie lubimy robić. Nie lubimy popełniać błędów. Nie ważne, co możemy osiągnąć. Nie chcemy cierpieć.
+Nie lubimy robić. Nie lubimy popełniać błędów. Nieważne, co możemy osiągnąć. Nie chcemy cierpieć.
 
 Nie rób. Nie popełniaj błędów. Patrz, jaki jesteś idealny. Patrz, jak on partoli tę robotę. Patrz, jak po kilku latach mu to wychodzi. Patrz, jak próbuje sił w innych dziedzinach i nadal popełnia błędy. Patrz, jak się rozwija. Zobacz, jaki jesteś idealny. Ty nie popełniłeś jego błędów. Nie popełniłeś żadnych błędów. Co w tym czasie zrobiłeś? Co osiągnąłeś?
 
