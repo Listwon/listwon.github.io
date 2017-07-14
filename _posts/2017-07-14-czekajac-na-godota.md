@@ -2,7 +2,7 @@
 layout: post
 title: "Czekając na Godota"
 crawlertitle: "Czekając na Godota"
-summary: "Czekając na Godota"
+summary: "Rób to"
 date: 2017-07-17
 categories: wpisy
 tags: ['inne']

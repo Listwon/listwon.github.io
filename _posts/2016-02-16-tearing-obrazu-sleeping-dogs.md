@@ -2,7 +2,7 @@
 layout: post
 title: "Tearing obrazu w Sleeping Dogs: Definitive Edition"
 crawlertitle: "Tearing obrazu w Sleeping Dogs"
-summary: "Tearing obrazu w Sleeping Dogs"
+summary: "PCMR"
 date: 2016-02-16
 categories: wpisy
 tags: ['gry']

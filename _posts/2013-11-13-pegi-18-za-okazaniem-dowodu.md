@@ -2,7 +2,7 @@
 layout: post
 title: "PEGI 18 za okazaniem dowodu"
 crawlertitle: "PEGI 18 za okazaniem dowodu"
-summary: "PEGI 18 za okazaniem dowodu"
+summary: "Czasem jestem dorosły"
 date: 2013-11-13
 categories: wpisy
 tags: ['gry']

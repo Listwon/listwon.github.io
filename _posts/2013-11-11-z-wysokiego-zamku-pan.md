@@ -2,7 +2,7 @@
 layout: post
 title: "Z wysokiego zamku Pan"
 crawlertitle: "Z wysokiego zamku Pan"
-summary: "Z wysokiego zamku Pan"
+summary: "Czasem marzę"
 date: 2013-11-11
 categories: wpisy
 tags: ['inne']
