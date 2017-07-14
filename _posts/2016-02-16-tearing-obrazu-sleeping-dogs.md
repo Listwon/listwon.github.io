@@ -6,7 +6,7 @@ summary: "Tearing obrazu w Sleeping Dogs"
 date: 2016-02-16
 categories: wpisy
 tags: ['gry']
-author: "Bartłomiej Listwon"
+author: "Bartłomiej T. Listwon"
 ---
 Lekarstwem na [tearing obrazu](https://pl.wikipedia.org/wiki/Rozrywanie_obrazu) w Sleeping Dogs: Definitive Edition jest włączenie steamowego licznika klatek.
 <!--more-->

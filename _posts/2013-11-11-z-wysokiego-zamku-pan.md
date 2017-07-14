@@ -6,7 +6,7 @@ summary: "Z wysokiego zamku Pan"
 date: 2013-11-11
 categories: wpisy
 tags: ['inne']
-author: "Bartłomiej Listwon"
+author: "Bartłomiej T. Listwon"
 ---
 >Z wysokiego zamku Pan sukcesów łaknący,<br>
 >Śpi w swej komnacie śniąc sen kojący. <br>

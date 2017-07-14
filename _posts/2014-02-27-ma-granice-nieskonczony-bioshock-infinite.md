@@ -6,7 +6,7 @@ summary: "Rzecz o Bioshock: Infinite"
 date: 2014-02-27
 categories: wpisy
 tags: ['gry']
-author: "Bartłomiej Listwon"
+author: "Bartłomiej T. Listwon"
 ---
 Paradoksalnie zdobywca wysokich ocen i wielu pochwał, był krytykowany również przez swoich zwolenników. Za co kochamy i dlaczego nienawidzimy to interaktywne doświadczenie, pod wieloma względami zasługujące na miano dzieła sztuki? [UWAGA! Dużo spoilerów!]
 <!--more-->

@@ -6,7 +6,7 @@ summary: "PEGI 18 za okazaniem dowodu"
 date: 2013-11-13
 categories: wpisy
 tags: ['gry']
-author: "Bartłomiej Listwon"
+author: "Bartłomiej T. Listwon"
 ---
 Gdy głos zabierają przeciwnicy przemocy w grach, zaraz pojawia się masa obrońców z „kontrargumentem” w postaci brutalnych filmów. <!--more--> Po pierwsze, o ile mnie pamięć nie myli, to do niedawna kina przestrzegały ograniczeń wiekowych narzuconych na dany seans, a wyjątkiem była obecność dorosłego. W przypadku osoby niepełnoletniej odpowiedzialność za to, co robi, ponosi jej opiekun i nie widzę w tym problemu. Dobrze, widzę problem, ale o tym za chwilę. Druga sprawa, w przeciwieństwie do filmu gra jest interaktywna i najczęściej w brutalnych scenach gracz bierze czynny udział. Nie jest wyłącznie biernym obserwatorem. Przyjmuje rolę „dobrego” albo „złego” (jeżeli ma taki wybór). Trzecia sprawa, teorie na temat złego wpływu gier mają tyleż zwolenników, co przeciwników. O ile wpływ gry na psychikę osoby pełnoletniej zależy już wyłącznie od kondycji psychicznej i wcześniejszego kształtowania jej przez znacznie silniejsze czynniki niż gry komputerowe, o tyle co najmniej do wieku 13 lat (nie bez powodu będącego dolną granicą częściowej, prawnej odpowiedzialności) wpływ na psychikę ma wszystko. Tak naprawdę nie można sztywno określić, że coś działa na dzieci w takim a takim przedziale wiekowym, a w innym nie ma żadnego wpływu. Nie bez powodu tempo rozwoju każdego dziecka jest inne, wszyscy się różnimy. Nie wolno tego bagatelizować.
 
