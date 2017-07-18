@@ -3,7 +3,7 @@ layout: post
 title: "Czekając na Godota"
 crawlertitle: "Czekając na Godota"
 summary: "Rób to"
-date: 2017-07-17
+date: 2017-07-14
 categories: wpisy
 tags: ['inne']
 author: "Bartłomiej T. Listwon"
