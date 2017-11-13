@@ -14,9 +14,10 @@ active: about
 ### Kim jestem?
 Twórcą gier komputerowych, programistą, frontendowcem.
 {% raw %}
+<a href="https://github.com/Listwon" target="_blank" class="fa fa-fw fa-github fa-3x social"></a>
+<a href="https://stackoverflow.com/users/5080296/bart%c5%82omiej-t-listwon" target="_blank" class="fa fa-fw fa-stack-overflow fa-3x social"></a>
 <a href="http://wielkipan.deviantart.com/" target="_blank" class="fa fa-fw fa-deviantart fa-3x social"></a>
 <a href="http://steamcommunity.com/id/bart_ijin/" target="_blank" class="fa fa-fw fa-steam-square fa-3x social"></a>
-<a href="https://github.com/Listwon" target="_blank" class="fa fa-fw fa-github fa-3x social"></a>
 <a href="https://www.facebook.com/bartek.listwon" target="_blank" class="fa fa-fw fa-facebook fa-3x social"></a>
 <a href="http://pl.linkedin.com/in/bartlomiejlistwon" target="_blank" class="fa fa-fw fa-linkedin fa-3x social"></a>
 <a href="https://twitter.com/blistwon" target="_blank" class="fa fa-fw fa-twitter fa-3x social"></a>
