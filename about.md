@@ -24,6 +24,7 @@ Twórcą gier komputerowych, programistą, frontendowcem.
 {% endraw %}
 <hr>
 ### Czym się zajmuję?
+
 - projektowaniem i tworzeniem gier komputerowych
 - wdrażaniem projektów stron internetowych – zarówno statyczne strony internetowe, frontend (szablony) do systemów CMS (WordPress, Joomla itp.), jak i małe projekty dedykowane
 - wdrażaniem projektów mailingów (do wykorzystania np. we [FreshMail](http://freshmail.pl/a/4h2mgo8qib/l))
@@ -34,6 +35,7 @@ Twórcą gier komputerowych, programistą, frontendowcem.
 
 <hr>
 ### Czym się posługuję?
+
 - C/C++
 - C#
 - Java
@@ -64,4 +66,4 @@ Twórcą gier komputerowych, programistą, frontendowcem.
 - Photoshop
 - Visual Studio
 - Sublime Text
-- Git
+- GitKraken
