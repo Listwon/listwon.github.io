@@ -101,7 +101,6 @@ a {
   -ms-flex-pack: distribute;
   justify-content: space-around;
   font-weight: bold;
-  font-family: "Roboto Condensed", sans-serif;
   padding: 0 1rem;
   text-transform: uppercase;
   a {
@@ -250,7 +249,6 @@ article {
   color: #b9b9b9;
   font-size: 70%;
   font-weight: bold;
-  font-family: 'Roboto Condensed', sans-serif;
   a, a:hover, a:focus, a:visited {
     color: #333;
   }
@@ -330,7 +328,7 @@ article {
     color: #333;
     margin: 10px 0;
   }
-  
+
   &__title {
     font-size: 1em;
     font-weight: bold;
