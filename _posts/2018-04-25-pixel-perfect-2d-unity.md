@@ -9,7 +9,7 @@ tags: ['gamedev']
 author: "Bartłomiej T. Listwon"
 ---
 
-Praktyczna lista rzeczy, które trzeba uwzględnić.
+Co trzeba uwzględnić?
 <!--more-->
 
 * wyłączone MSAA (anti aliasing) - ustawienia kamery i quality settings
