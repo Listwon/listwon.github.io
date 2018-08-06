@@ -8,7 +8,6 @@ categories: wpisy
 tags: ['inne']
 author: "Bartłomiej T. Listwon"
 ---
-
 Dosyć często ostatnio zwracam uwagę na to, że praktyka i eksperymentowanie nie tylko szlifują moje umiejętności, ale rozwijają też pewność siebie i otwierają umysł na nowe rozwiązania. Pogłębiają chęć poszukiwań. Poszerzają horyzont.
 <!--more-->
 
