@@ -25,13 +25,16 @@ Twórcą gier komputerowych, programistą, frontendowcem.
 <hr>
 ### Czym się zajmuję?
 
-- projektowaniem i tworzeniem gier komputerowych
-- wdrażaniem projektów stron internetowych – zarówno statyczne strony internetowe, frontend (szablony) do systemów CMS (WordPress, Joomla itp.), jak i małe projekty dedykowane
-- wdrażaniem projektów mailingów (do wykorzystania np. we [FreshMail](http://freshmail.pl/a/4h2mgo8qib/l))
-- wdrażaniem projektów kampanii reklamowych (np. Google AdWords)
+- naprawianiem i optymalizacją istniejącego kodu i zasobów
+- projektowaniem i tworzeniem gier
+- portowaniem gier na różne platformy i przepisywaniem na różne technologie
+- pomocą w kończeniu i szlifowaniu projektów
+- przygotowywaniem narzędzi ułatwiających pracę nad tworzeniem gier (importery, eksportery, konwertery, edytory, skrypty automatyzujące różne procesy)
+- wdrażaniem projektów stron internetowych – zarówno statyczne strony internetowe, frontend (szablony) do systemów CMS (WordPress itp.), jak i małe projekty dedykowane
+- wdrażaniem projektów mailingów (tworzenie szablonów HTML)
 - pracami administracyjnymi na istniejących stronach (modyfikacja kodu, integracja z zewnętrznymi systemami, migracja na inny hosting)
-- instalacją, konfiguracją, modyfikacją i rozbudowywaniem gotowych rozwiązań (WordPress, Joomla itd.)
-- ratowaniem sytuacji (proste prace graficzne, naprawianie błędów również w technologiach, w których się nie specjalizuję)
+- instalacją, konfiguracją, modyfikacją i rozbudowywaniem gotowych rozwiązań
+- ratowaniem sytuacji (naprawianie błędów również w technologiach, w których się nie specjalizuję, proste prace graficzne)
 
 <hr>
 ### Czym się posługuję?
@@ -56,14 +59,13 @@ Twórcą gier komputerowych, programistą, frontendowcem.
   - MySQL
 - CMS
   - WordPress
-  - Joomla
-  - SilverStripe
 
 <hr>
 ### Z jakich narzędzi korzystam?
-- Godot
+
 - Unity
-- Photoshop
 - Visual Studio
 - Sublime Text
-- GitKraken
+- Sublime Merge
+- Godot
+- Photoshop
