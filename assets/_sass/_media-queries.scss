@@ -3,8 +3,8 @@
 * ========================================================================== */
 
 @media screen and (min-width: $md-break-point) {
-  body { font-size: 18px; }
-  h1 { font-size: 2em; }
+  body { font-size: 16px; }
+  h1 { font-size: 2.2em; }
   h2 { font-size: 1.8em; }
   h3 { font-size: 1.6em; }
   h4 { font-size: 1.3em; }
@@ -147,7 +147,7 @@
   .content-wrapper {
     width: $content-wrapper-width;
     max-width: $article-max-width;
-    margin-left: $post-margin-left;
+    margin: auto;
   }
 
   main {
@@ -163,6 +163,6 @@
   .blog-footer {
     width: $content-wrapper-width;
     max-width: $article-max-width;
-    margin-left: $post-margin-left;
+    margin: auto;
   }
 }

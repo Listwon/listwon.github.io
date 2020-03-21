@@ -2,7 +2,7 @@
 * Links
 * ========================================================================== */
 a {
-  color: #333;
+  color: #777;
   &:hover,
   &:focus,
   &:active { text-decoration: none; }
@@ -29,7 +29,6 @@ a {
   line-height: 50px;
   left: 0;
   top: 0;
-  color: #000;
   font-size: 18px;
 }
 
@@ -74,7 +73,7 @@ a {
 * Header
 * ========================================================================== */
 .main-header {
-  background-color: #fdfdfd;
+  background-color: #101010;
   position: fixed;
   z-index: 100;
   width: 100%;
@@ -109,12 +108,12 @@ a {
     order: 1;
     line-height: 50px;
     margin: auto;
-    color: #333;
+    color: #aaa;
     text-decoration: none;
     &:hover,
     &:focus,
     &:active {
-      color: #766257;
+      color: #ffffff;
     }
   }
 }
