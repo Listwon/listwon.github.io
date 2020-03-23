@@ -1,18 +1,17 @@
 ---
 bg: "bg.svg"
 layout: page
-title: "O mnie"
-crawlertitle: "O mnie"
-permalink: /o-mnie/
-summary: "Kim jestem"
+title: "About"
+crawlertitle: "About"
+permalink: /about/
+summary: "About me"
 active: about
 ---
 # Bartłomiej T. Listwon
-## Jack of all trades
+Co-owner of [Pineapple Works](https://pineapple.works), battle programmer, game artisan
 
 <hr>
-### Kim jestem?
-Twórcą gier komputerowych, programistą, frontendowcem.
+### My profiles
 {% raw %}
 <a href="https://github.com/Listwon" target="_blank" class="fa fa-fw fa-github fa-3x social"></a>
 <a href="https://stackoverflow.com/users/5080296/bart%c5%82omiej-t-listwon" target="_blank" class="fa fa-fw fa-stack-overflow fa-3x social"></a>
@@ -23,49 +22,35 @@ Twórcą gier komputerowych, programistą, frontendowcem.
 <a href="https://twitter.com/blistwon" target="_blank" class="fa fa-fw fa-twitter fa-3x social"></a>
 {% endraw %}
 <hr>
-### Czym się zajmuję?
+### Skills & Responsibilities
 
-- naprawianiem i optymalizacją istniejącego kodu i zasobów
-- projektowaniem i tworzeniem gier
-- portowaniem gier na różne platformy i przepisywaniem na różne technologie
-- pomocą w kończeniu i szlifowaniu projektów
-- przygotowywaniem narzędzi ułatwiających pracę nad tworzeniem gier (importery, eksportery, konwertery, edytory, skrypty automatyzujące różne procesy)
-- wdrażaniem projektów stron internetowych – zarówno statyczne strony internetowe, frontend (szablony) do systemów CMS (WordPress itp.), jak i małe projekty dedykowane
-- wdrażaniem projektów mailingów (tworzenie szablonów HTML)
-- pracami administracyjnymi na istniejących stronach (modyfikacja kodu, integracja z zewnętrznymi systemami, migracja na inny hosting)
-- instalacją, konfiguracją, modyfikacją i rozbudowywaniem gotowych rozwiązań
-- ratowaniem sytuacji (naprawianie błędów również w technologiach, w których się nie specjalizuję, proste prace graficzne)
+- fixing, polishing and optimizing game projects
+- game development
+- game porting
+- tools development (importers, exporters, converters, editors, automation scripts)
+- development support
+- web development
+- many different tasks outside of my area of expertise (like image, video and audio editing, 3d modeling, etc.)
 
 <hr>
-### Czym się posługuję?
+### My programming toolbox
 
-- C/C++
 - C#
-- Java
-- GDScript
-- Python
-- Bash
-- PHP
-- HTML
+- C/C++
 - JavaScript
-  - Vue.js
-  - jQuery
-  - JSON
+- Python
+- HTML
 - CSS
-  - Sass
-  - Bootstrap
-- XML
-- SQL
-  - MySQL
-- CMS
-  - WordPress
+- PHP
+- Bash
+- GDScript
 
 <hr>
-### Z jakich narzędzi korzystam?
+### My essential tools
 
-- Unity
-- Visual Studio
 - Sublime Text
 - Sublime Merge
+- Visual Studio
+- Unity
 - Godot
 - Photoshop
