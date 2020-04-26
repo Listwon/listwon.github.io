@@ -8,10 +8,10 @@ summary: "About me"
 active: about
 ---
 # Bartłomiej T. Listwon
-Co-owner of [Pineapple Works](https://pineapple.works), battle programmer, game artisan
+Co-owner of 🍍 [Pineapple Works](https://pineapple.works), 🧙 battle programmer, ⚗️ game artisan
 
 <hr>
-### My profiles
+### 🗃️ My profiles
 {% raw %}
 <a href="https://github.com/Listwon" target="_blank" class="fa fa-fw fa-github fa-3x social"></a>
 <a href="https://stackoverflow.com/users/5080296/bart%c5%82omiej-t-listwon" target="_blank" class="fa fa-fw fa-stack-overflow fa-3x social"></a>
@@ -22,7 +22,7 @@ Co-owner of [Pineapple Works](https://pineapple.works), battle programmer, game 
 <a href="https://twitter.com/blistwon" target="_blank" class="fa fa-fw fa-twitter fa-3x social"></a>
 {% endraw %}
 <hr>
-### Skills & Responsibilities
+### 📜 Skills & Responsibilities
 
 - fixing, polishing and optimizing game projects
 - game development
@@ -33,7 +33,7 @@ Co-owner of [Pineapple Works](https://pineapple.works), battle programmer, game 
 - many different tasks outside of my area of expertise (like image, video and audio editing, 3d modeling, etc.)
 
 <hr>
-### My programming toolbox
+### 🛠️ My programming toolbox
 
 - C#
 - C/C++
@@ -46,7 +46,7 @@ Co-owner of [Pineapple Works](https://pineapple.works), battle programmer, game 
 - GDScript
 
 <hr>
-### My essential tools
+### 🧰 My essential tools
 
 - Sublime Text
 - Sublime Merge
