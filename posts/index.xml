@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Listwon</title>
+    <link>https://listwon.com/posts/</link>
+    <description>Recent content in Posts on Listwon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://listwon.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>A new beginning</title>
+      <link>https://listwon.com/posts/a-new-beginning/</link>
+      <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://listwon.com/posts/a-new-beginning/</guid>
+      <description>&lt;p&gt;In January this year, I founded the first company in my life - &lt;a href=&#34;https://pineapple.works/&#34;&gt;Pineapple Works&lt;/a&gt;. It&amp;rsquo;s special to me on multiple levels. First of all, because I&amp;rsquo;m working in the game industry, something I dreamed of for a long time and something that I really started doing in previous incarnation of Pineapple Works, before I became its co-owner. Secondly, I was invited to co-found it with my previous employer, which means a lot. Lastly, I&amp;rsquo;ve got my own business, own brand we are forging together to be more recognizable. It&amp;rsquo;s truly a roller coaster - stressful, but fun and satisfying.&lt;/p&gt;
+&lt;p&gt;Three months later we are publishing our third game on Nintendo Switch (fourth released Switch port in total) and at the same time we are working on some new releases. So, I&amp;rsquo;m getting excited to see what the future holds.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>
