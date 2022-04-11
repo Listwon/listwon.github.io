@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Programming, game development, miniature painting.">
+    
+    <link rel="shortcut icon" href="https://listwon.com/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    <title>git clean -xdf and friends</title>
+</head>
+<body><header id="banner">
+    <h2><a href="https://listwon.com">Listwon</a></h2>
+    <nav>
+        <ul>
+            <li>
+                <a href="/" title="posts">posts</a>
+            </li><li>
+                <a href="/about/" title="about">about</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>git clean -xdf and friends</h1>
+        <div>
+                <time>April 11, 2022</time>
+            </div>
+    </header><p>Remove all untracked files and directories recursively:</p>
+<p><code>git clean -xdf</code></p>
+<p>Fetch all Git LFS content for your repository:</p>
+<p><code>git lfs fetch --all</code></p>
+<p>Run as if git was started in <code>&lt;path&gt;</code> instead of the current working directory:</p>
+<p><code>git -C &lt;path&gt;</code></p>
+<p>References:</p>
+<ul>
+<li><a href="https://git-scm.com/docs/git">https://git-scm.com/docs/git</a></li>
+<li><a href="https://git-scm.com/docs/git-clean">https://git-scm.com/docs/git-clean</a></li>
+<li><a href="https://www.atlassian.com/git/tutorials/git-lfs">https://www.atlassian.com/git/tutorials/git-lfs</a></li>
+</ul>
+</article>
+
+        </main><footer id="footer">
+    Copyright © 2022 Bartłomiej T. Listwon
+</footer>
+</body>
+</html>

@@ -12,6 +12,67 @@
     
     
     <item>
+      <title>git clean -xdf and friends</title>
+      <link>https://listwon.com/posts/git-clean-xdf-and-friends/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://listwon.com/posts/git-clean-xdf-and-friends/</guid>
+      <description>&lt;p&gt;Remove all untracked files and directories recursively:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git clean -xdf&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Fetch all Git LFS content for your repository:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git lfs fetch --all&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Run as if git was started in &lt;code&gt;&amp;lt;path&amp;gt;&lt;/code&gt; instead of the current working directory:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;git -C &amp;lt;path&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/git&#34;&gt;https://git-scm.com/docs/git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://git-scm.com/docs/git-clean&#34;&gt;https://git-scm.com/docs/git-clean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.atlassian.com/git/tutorials/git-lfs&#34;&gt;https://www.atlassian.com/git/tutorials/git-lfs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>tar xfz and friends</title>
+      <link>https://listwon.com/posts/tar-xfz-and-friends/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://listwon.com/posts/tar-xfz-and-friends/</guid>
+      <description>&lt;p&gt;Extract a gzipped tar archive ( *.tar.gz ):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tar xfz archive_name.tar.gz&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Extract a tar archive (*.tar):&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tar xf archive_name.tar.gz&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Create an uncompressed tar archive:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tar cf archive_name.tar dirname/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Create a gzipped tar archive:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;tar czf archive_name.tar.gz dirname/&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More examples: &lt;a href=&#34;https://www.thegeekstuff.com/2010/04/unix-tar-command-examples/&#34;&gt;https://www.thegeekstuff.com/2010/04/unix-tar-command-examples/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Moving to Hugo</title>
+      <link>https://listwon.com/posts/moving-to-hugo/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://listwon.com/posts/moving-to-hugo/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; just joined the list of static site generators I&amp;rsquo;ve ever used for blogging, right after &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt; and &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;. Unlike its predecessors it&amp;rsquo;s a single binary written in a compiled language (&lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;). No dependencies, less bloat.&lt;/p&gt;
+&lt;p&gt;Live preview while modifying content:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo server -D&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;-D, --buildDrafts - include content marked as draft&lt;/p&gt;
+&lt;p&gt;Build static pages:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Output will be in &lt;code&gt;./public/&lt;/code&gt; directory by default&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
       <title>A new beginning</title>
       <link>https://listwon.com/posts/a-new-beginning/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
